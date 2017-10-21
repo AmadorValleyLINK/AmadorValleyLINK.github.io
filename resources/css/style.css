@@ -67,11 +67,13 @@ h2 {
     text-align: center;
     margin-bottom: 30px;
     letter-spacing: 1px;
+    color: #fff;
 }
 
 h3 {
     font-size: 110%;
     margin-bottom: 15px;
+    color: #fff;
 }
 
 h2:after {
